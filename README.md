@@ -4,7 +4,6 @@
 This is README.
 - item A
 - item B
-- item 3
 
 ## Part 2
 1. sunday
