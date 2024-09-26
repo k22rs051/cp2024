@@ -2,8 +2,8 @@
 
 ## Part 1
 This is README.
-- item 1
-- item 2
+- item A
+- item B
 - item 3
 
 ## Part 2
